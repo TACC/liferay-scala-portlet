@@ -1,0 +1,49 @@
+10
+
+dir
+6711
+https://collab.tacc.utexas.edu/repos/dgc/portals/tup/3.x-liferay-6-ee/trunk/liferay-plugins-sdk-6.0-ee-sp1/tools
+https://collab.tacc.utexas.edu/repos/dgc
+
+
+
+2012-07-16T21:46:23.668565Z
+6476
+davect
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+0c9d9b9b-69af-4ac1-ad73-2ace154b90b4
+
+portlet_tmpl
+dir
+
+portlet_vaadin_tmpl
+dir
+
+portlet_scala_tmpl
+dir
+
+layouttpl_tmpl
+dir
+
+ext_tmpl
+dir
+
+hook_tmpl
+dir
+
+theme_tmpl
+dir
+
